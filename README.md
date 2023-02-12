@@ -11,5 +11,5 @@ Based on *Learn The MERN Stack* youtube tutorial by Traversy Media
 
 <br />
 
-## To run the server
+### Run the server
 `npm run server`
