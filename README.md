@@ -11,5 +11,6 @@ Authentication with **JWT**<br />
 Based on - Learn The MERN Stack, youtube tutorial by Traversy Media
 
 <br />
+
 ### Run the server
 `npm run server`
