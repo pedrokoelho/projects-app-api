@@ -1,5 +1,5 @@
 # Projects REST API
-Part I of a MERN project with Node.js, Express, MongoDB and Mongoose
+Part I of a **MERN project** with Node.js, Express, MongoDB and Mongoose
 
 ### CRUD REST API with Express and Node.js
 Authentication with **JWT**
