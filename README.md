@@ -5,6 +5,6 @@ Part I of a MERN project with Node.js, Express, MongoDB and Mongoose
 Authentication with **JWT**
 
 Based on *Learn The MERN Stack* youtube tutorial by Traversy Media
----
+
 ### To run the server
-npm run server
+`npm run server`
