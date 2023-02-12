@@ -1,4 +1,4 @@
-# Projects REST API
+# PROJECTS REST API
 Part I of a **MERN project** with Node.js, Express, MongoDB and Mongoose
 
 <br />
